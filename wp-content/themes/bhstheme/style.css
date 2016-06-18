@@ -1,0 +1,63 @@
+
+
+/*   =====
+
+
+.admin-bar .navbar-fixed-top {
+    margin-top: 30px;
+}
+@media (min-width: 768px) {
+    .sub-menu {
+        display: none;
+        position: absolute;
+        background: #222;
+        padding: 10px 15px;
+        width: 200px;
+    }
+
+    li:hover .sub-menu {
+        display: block
+    }
+}
+
+.sub-menu li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.sidebar {
+  margin-top: 40px;
+  color: #444;
+}
+.sidebar h3 {
+  color: #888;
+}
+
+.widget {
+  margin: 10px 0 30px;
+}
+
+article.post {
+    margin: 20px 0 40px;
+}
+
+/* make images reponsive */
+.portfolio-piece img {
+    max-width: 100%;
+}
+
+@media (min-width:540px) {
+    .portfolio-piece h4 {
+        font-size: .8em;
+    }
+}
+
+/* make images reponsive */
+.portfolio-piece img,
+.portfolio-image img {
+    max-width: 100%;
+}
+
+
+
+     */
